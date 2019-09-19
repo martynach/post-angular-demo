@@ -1,0 +1,8 @@
+:host {
+  display: block;
+  margin-top: 16px;
+}
+
+.no-content {
+  text-align: center;
+}
