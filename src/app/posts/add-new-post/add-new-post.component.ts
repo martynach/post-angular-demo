@@ -17,4 +17,6 @@ export class AddNewPostComponent {
     this.postCreated.emit({title: this.postTitle, content: this.postContent});
   }
 
+
+
 }
